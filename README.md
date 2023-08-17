@@ -1,2 +1,2 @@
 # Netflix-clone-using-react
-react,TMDB api with youtube trailer 
+React-js,TMDB-api,Youtube trailer 
